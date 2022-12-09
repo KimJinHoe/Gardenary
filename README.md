@@ -1,4 +1,4 @@
-# 🌷 Gardenary (정리 중)
+# 🌷 Gardenary 가드너리
 <div align="center">
   <img src="https://user-images.githubusercontent.com/63358647/206158105-b7eed58a-eaec-4982-bc24-9c7fb6303d61.png" width="60%"/>
 </div>
@@ -61,6 +61,7 @@
 <img src="https://user-images.githubusercontent.com/63358647/206184974-a366ca3d-bee4-4a18-b2df-a6be0be090c2.png" width="60%"/>
 
 ## 6. 시연 영상
+준비 중...
 
 ## 7. 회고
 
