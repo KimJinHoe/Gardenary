@@ -25,7 +25,7 @@
 
 ## 2. 팀소개
 ### 역할분담
-<img src="https://user-images.githubusercontent.com/63358647/206184961-42d2d541-894a-40d9-84dd-d8d818a746a3.PNG" width="60%"/>
+<img src="https://user-images.githubusercontent.com/63358647/206184961-42d2d541-894a-40d9-84dd-d8d818a746a3.PNG"/>
 
 ### 담당파트
 백엔드(JPA) [30%], CI/CD [100%], 유니티 [10%]
