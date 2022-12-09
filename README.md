@@ -1,6 +1,7 @@
 # Gardenary (정리 중)
-<img src="https://user-images.githubusercontent.com/63358647/206158105-b7eed58a-eaec-4982-bc24-9c7fb6303d61.png" width="60%"/>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/63358647/206158105-b7eed58a-eaec-4982-bc24-9c7fb6303d61.png" width="60%"/>
+</div>
 ## 0. 서비스 소개
 유니티를 활용한 일상 기록 정원 꾸미기 어플 (출시 예정)
 
